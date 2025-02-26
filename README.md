@@ -37,3 +37,7 @@ fun ExampleScreen() {
 - Success type toastify
 - Warning type toastify
 - Error type toastify
+
+## Demo
+[record_screen.webm](https://github.com/user-attachments/assets/c3790024-01b1-44f9-9535-b7aeb03649bc)
+
