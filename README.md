@@ -1,5 +1,5 @@
-# Toastify
-This is a customized snackbar package. With this package you can easily inform your users. 
+# Toastify - Jetpack Compose
+Toastify is a snackbar package for Jetpack Compose. With this package you can easily inform your users.
 
 ## Demo Video
 [Screen Recording](https://github.com/user-attachments/assets/c3790024-01b1-44f9-9535-b7aeb03649bc)
